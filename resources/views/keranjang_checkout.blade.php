@@ -671,5 +671,3 @@
     </script>
 </body>
 </html>
-
-ketika klik checkout masuk ke whatsapp
