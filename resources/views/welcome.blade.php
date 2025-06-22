@@ -509,9 +509,10 @@
         <div class="first-info">
           <img src="./images/logo.png" alt="">
 
-          <p>Kelompok 1 <br>Pemograman Web</p>
-          <p>text</p>
-          <p>text</p>
+          <p>Kelompok 1 <br>Pemograman Web-Karyawan</p>
+          <p>Adinda Puspita Nurkomala Sari</p>
+          <p>Michael Paul CHoyonggi Cho</p>
+          <p>Muhamad Rafli Mustaqim</p>
           <div class="social-icon">
             <a href="#"><i class='bx bxl-facebook'></i></a>
             <a href="#"><i class='bx bxl-twitter' ></i></a>
