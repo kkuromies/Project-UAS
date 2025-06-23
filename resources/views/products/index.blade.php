@@ -12,8 +12,8 @@
                 <div class="col-md-12">
                     <div class="card">
                         <div>
-                            <h3 class="text-center my-4">App Laravel 12</h3>
-                            <h5 class="text-center">by adinda</h5>
+                            <h3 class="text-center my-4">CRUD</h3>
+                            <h5 class="text-center">by Kelompok 1</h5>
                             <hr>
                         </div>
                         <div class="card border-0 shadow-sm rounded">
