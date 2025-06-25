@@ -632,22 +632,7 @@
             }
         }
 
-        function checkout() {
-    if (cartData.items.length === 0) {
-        alert('Keranjang Anda kosong!');
-        return;
-    }
-    
-    const quantity = cartData.items[0].quantity;
-    const productName = cartData.items[0].title;
-    const subtotal = cartData.items[0].originalPrice * quantity;
-
-    // Create a message for WhatsApp
-    const message = `Saya ingin memesan ${quantity} ${productName} dengan total Rp${subtotal.toLocaleString('id-ID')}.`;
-    const whatsappUrl = `https://wa.me/085860090719?text=${encodeURIComponent(message)}`;
-
-    // Redirect to WhatsApp
-    window.open(whatsappUrfunction checkout() {
+       function checkout() {
     if (cartData.items.length === 0) {
         alert('Keranjang Anda kosong!');
         return;
@@ -663,7 +648,6 @@
 
     // Redirect to WhatsApp
     window.open(whatsappUrl, '_blank');
-}l, '_blank');
 }
 
         // Initialize
